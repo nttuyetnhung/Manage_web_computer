@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Qly_Website\Qly_Website\obj\Debug\Qly_Website.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Qly_Website\Qly_Website\obj\Debug\Qly_Website.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Qly_Website\Qly_Website\bin\Debug\Qly_Website.exe.config
+C:\Users\Admin\source\repos\Qly_Website\Qly_Website\bin\Debug\Qly_Website.exe
+C:\Users\Admin\source\repos\Qly_Website\Qly_Website\bin\Debug\Qly_Website.pdb
+C:\Users\Admin\source\repos\Qly_Website\Qly_Website\obj\Debug\Qly_Website.exe
+C:\Users\Admin\source\repos\Qly_Website\Qly_Website\obj\Debug\Qly_Website.pdb
+C:\Users\Admin\source\repos\OOP\Qly_Website\Qly_Website\bin\Debug\Qly_Website.exe.config
+C:\Users\Admin\source\repos\OOP\Qly_Website\Qly_Website\bin\Debug\Qly_Website.exe
+C:\Users\Admin\source\repos\OOP\Qly_Website\Qly_Website\bin\Debug\Qly_Website.pdb
+C:\Users\Admin\source\repos\OOP\Qly_Website\Qly_Website\obj\Debug\Qly_Website.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\Qly_Website\Qly_Website\obj\Debug\Qly_Website.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\Qly_Website\Qly_Website\obj\Debug\Qly_Website.exe
+C:\Users\Admin\source\repos\OOP\Qly_Website\Qly_Website\obj\Debug\Qly_Website.pdb
